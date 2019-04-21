@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CsGoVis": {
+      "commandName": "Project",
+      "commandLineArgs": "matches/match730_003340161059968253955_0831510395_201.dem ",
+      "workingDirectory": "C:\\Users\\traies\\git\\csgovis"
+    }
+  }
+}
