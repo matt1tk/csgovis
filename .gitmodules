@@ -1,0 +1,3 @@
+[submodule "demoinfo"]
+	path = demoinfo
+	url = git@github.com:StatsHelix/demoinfo.git
